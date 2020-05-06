@@ -1,0 +1,2 @@
+Add branch protection rules for master
+Do not allow force push master
